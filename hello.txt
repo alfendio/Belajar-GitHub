@@ -1,4 +1,5 @@
-ini percobaan conflict juga ya, ini di branch development
+belajar branch dicoding tanggal 11 Februari 2022
+
 
 ini latihan squash changes 1
 ini latihan squash changes lagi ya 2
