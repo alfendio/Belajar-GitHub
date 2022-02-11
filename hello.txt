@@ -1,2 +1,3 @@
 ini percobaan conflict juga ya, ini di branch development
 
+ini latihan squash changes 1
