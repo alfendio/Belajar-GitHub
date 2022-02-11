@@ -1,2 +1,2 @@
-# belajargithub
-belajar cara penggunaan github branch
+# Belajar GitHub
+Belajar cara penggunaan GitHub branch
