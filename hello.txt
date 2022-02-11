@@ -1,2 +1,3 @@
-ini percobaan conflict juga ya, ini di branch development
+belajar branch dicoding tanggal 11 Februari 2022
 
+ini percobaan conflict ya di main
