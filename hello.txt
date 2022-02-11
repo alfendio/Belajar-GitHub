@@ -2,3 +2,4 @@ ini percobaan conflict juga ya, ini di branch development
 
 ini latihan squash changes 1
 ini latihan squash changes lagi ya 2
+ini juga latihan squash changes lagi brayy yang ke 3
